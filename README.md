@@ -6,3 +6,16 @@ Resumo. No começo do século XX, o uso estético de objetos industriais e corri
 
 O projeto de pesquisa está sendo conduzido no departamento de Sociologia da Faculdade de Filosofia, Letras e Ciências Humanas da USP, com financiamento da Fundação de Amaparo à Pesquisa do Estado de São Paulo (nº do financiamento: 2021/00645-8).
 
+Os dados utilizados para produzir as visualizações foram publicados no Repositório de Dados da USP. 
+Nome do projeto: Arte em rede - A Gênese do paradigma conceitual de arte.
+Autor: Felipe Eduardo Lázaro Braga
+Orientador: Leopoldo Waizbort
+Financiador: FAPESP (nº 2021/00645-8).
+
+Página para acessar os dados do projeto:
+https://repositorio.uspdigital.usp.br/handle/item/568
+
+Página para acessar as informações de financiamento do projeto: 
+https://bv.fapesp.br/pt/bolsas/200512/arte-em-rede-a-genese-do-paradigma-conceitual-de-arte/
+
+
