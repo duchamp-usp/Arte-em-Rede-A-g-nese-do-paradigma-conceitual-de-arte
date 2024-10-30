@@ -1,4 +1,4 @@
-# Arte-em-Rede-A-g-nese-do-paradigma-conceitual-de-arte
+# Arte em Rede - A gênese do paradigma conceitual de arte
 
 O objetivo deste repositório é publicar os scripts de análise dos dados do projeto "Arte em Rede - A gênese do paradigma conceitual de arte".
 
@@ -13,9 +13,11 @@ Orientador: Leopoldo Waizbort
 Financiador: FAPESP (nº 2021/00645-8).
 
 Página para acessar os dados do projeto:
+
 https://repositorio.uspdigital.usp.br/handle/item/568
 
 Página para acessar as informações de financiamento do projeto: 
+
 https://bv.fapesp.br/pt/bolsas/200512/arte-em-rede-a-genese-do-paradigma-conceitual-de-arte/
 
 
